@@ -1,4 +1,5 @@
 # Smart-Contract-Security-Checklist
+![Black White and Yellow Digital Glitch Money YouTube Banner](https://github.com/sagarjethi/Smart-Contract-Security-Checklist/assets/3726180/93645e35-3761-46b8-8012-b2ea7170f341)
 A Smart Contract Audit Checklist: A Comprehensive Guide to Ensuring Secure and Robust Smart Contracts
 
 
